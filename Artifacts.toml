@@ -1,20 +1,20 @@
 [[rocm_cmake]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "566b28f4b92ca79fa8e76d4a5e8335082bd111af"
+git-tree-sha1 = "9786a17a1c409c5130b7ef24ed64844ad2de9357"
 libc = "glibc"
 os = "linux"
 
     [[rocm_cmake.download]]
-    sha256 = "4d69e34971283e2c66ba8a4c0cb53a59fc967db486a107fbe7511b2fdd13d956"
-    url = "https://github.com/JuliaBinaryWrappers/rocm_cmake_jll.jl/releases/download/rocm_cmake-v5.5.1+0/rocm_cmake.v5.5.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "cfa80997789dd7b2fc10fc9c3ab6d223e5f8b2e165f0561c95a293cb6895dbb7"
+    url = "https://github.com/JuliaBinaryWrappers/rocm_cmake_jll.jl/releases/download/rocm_cmake-v5.6.1+0/rocm_cmake.v5.6.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[rocm_cmake]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "566b28f4b92ca79fa8e76d4a5e8335082bd111af"
+git-tree-sha1 = "9786a17a1c409c5130b7ef24ed64844ad2de9357"
 libc = "musl"
 os = "linux"
 
     [[rocm_cmake.download]]
-    sha256 = "4d69e34971283e2c66ba8a4c0cb53a59fc967db486a107fbe7511b2fdd13d956"
-    url = "https://github.com/JuliaBinaryWrappers/rocm_cmake_jll.jl/releases/download/rocm_cmake-v5.5.1+0/rocm_cmake.v5.5.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "cfa80997789dd7b2fc10fc9c3ab6d223e5f8b2e165f0561c95a293cb6895dbb7"
+    url = "https://github.com/JuliaBinaryWrappers/rocm_cmake_jll.jl/releases/download/rocm_cmake-v5.6.1+0/rocm_cmake.v5.6.1.x86_64-linux-musl-cxx11.tar.gz"
